@@ -97,19 +97,25 @@ Mon travail: Promouvoir le FAIR data au sein d'Ecobio, les métadonnées via l'I
 - Mon travail : aide à la gestion des données de la recherche du LabEx DRIIHM : catalogage, photothèque, sites web...
 - Mon background : développeur web-SIG
 
+Et bien d'autres ....
+
 ## C'est où ?
 
 ### Concarneau
+
+![](https://i.imgur.com/9s940wi.jpg)
+
 
 Pour le site de Concarneau, rendez-vous à la Station de Biologie Marine / Marinarium, à gauche derrière la boutique (panneaux "salle de conférence").
 
 ### Paris
 
-Pour le site de Paris, rendez-vous dans le jardin des plantes en salle Claude Hélène (bâtiment de la Baleine) Entrée côté Jussieu. Contacter Simon Bénateau en cas de besoin : simon.benateau@mnhn.fr ou 0644868139.
+Pour le site de Paris, rendez-vous dans le jardin des plantes en salle Claude Hélène (bâtiment de la Baleine) Entrée côté Jussieu. Contacter Simon Bénateau en cas de besoin.
+![](https://i.imgur.com/xM0JMiu.png)
 
 ### Montpellier
 
-Pour le site de Montpellier, rendez-vous au CESAB situé au 5 rue de l'école de Médecine (bâtiment IBB), rentrez dans l'enceinte, contournez le bâtiment par la droite et prenez les escaliers jusqu'à ne plus pouvoir monter. Contactez Nicolas Casajus au besoin : nicolas.casajus@fondationbiodiversite.fr ou 0786330337.
+Pour le site de Montpellier, rendez-vous au CESAB situé au 5 rue de l'école de Médecine (bâtiment IBB), rentrez dans l'enceinte, contournez le bâtiment par la droite et prenez les escaliers jusqu'à ne plus pouvoir monter. Contactez Nicolas Casajus au besoin.
 
 ## Outils de communication pour cet événement
 Serveur **BigBlueButton** accessible à cet URL : https://webconf.math.cnrs.fr/b/yva-rtm-4mv.
@@ -118,7 +124,7 @@ En solution de dépannage, notamment en cas de problèmes, je propose d'utiliser
 
 Partage de fichiers : https://data-access.cesgo.org/index.php/s/1MKUDQZzVdTkCPx
 
-## Programme prévisionnel
+## Programme
 
 L'idée est de faire une première ~demi journée de présentation/formation introductive puis un grand temps d'échange (~2 jours) de travail en petits groupes
 
@@ -161,12 +167,13 @@ L'idée est de faire une première ~demi journée de présentation/formation int
    - développement de matériels de formation 'e-learning" via l'infrastructure du Galaxy Training Network
 
 ## Prise de Notes
-### Tour de table
+### Tour de table initiale
+Nombre total de personnes différentes durant les 3 jours : 40
 - Paris
-Alain Danet
-Jerome
-Jean stage CESCO développement algo IA reconnaissance insectes
-Simon Benateau MNHN Vigie-Nature Ecole
+    - Alain Danet
+    - Jerome
+    - Jean stage CESCO développement algo IA reconnaissance insectes
+    - Simon Benateau MNHN Vigie-Nature Ecole
 - Montpellier
     - Morgane PAtriNAt OFB-MNHN-CNRS Shiny métadonnées sur dispositifs suivi de biodiversité terrestre
     - Sarah Valentin OFB projet EUropéen EnetWild pour standardiser données présences absences biodiv terrestre focus sanglier
@@ -177,8 +184,9 @@ Simon Benateau MNHN Vigie-Nature Ecole
 - Claudia UMR TETIS Montpellier responsable infra de données géographique pour l'unité
   - membres unité plutôt utilisateur de données Biodiversité que producteur !
 - Concarneau
-Coline PNDB Galaxy-E et écharpe jaune
-Elie PNDB ingé données / métadonnées et développeur MetaShARK
+    - Coline PNDB Galaxy-E et écharpe jaune ;)
+    - Elie PNDB ingé données / métadonnées et développeur MetaShARK
+    - Yvan
 - Denis ecobio genet des pop / trophique et gestion données SIG
 - Emilie géomaticienne FAIRisation des données / projet ANR SO-DRIIMH / Observatoires Hommes Milieux
 - Françoise ecobio gestion de données - métadonnées / FAIRisation / OSU Rennes
@@ -191,28 +199,48 @@ Elie PNDB ingé données / métadonnées et développeur MetaShARK
 - Philippe URFM Avignon INRAE / arbres / gestion bdd infos sur arbres / développement Shiny pour présenter aux gens ne connaissant pas postgres - SQL les données / SIG GeoNetwork - Geoserveur pour porter à connaissance via projet ANAee France / avec aspects sémantiques - sémantisation / désémantisation pour publication dans entrepôt genre Dataverse
 - Raphaelle Institut de la mer de Villefranche / réseau d'observatoire ARGO via flotteurs / données biogéo-chimiques / développement d'outils adaptés aux utilisateurs pour que les données soient la plus juste possible / R, Shiny, Python
 - Sabrina Le Cam Post doc à L'université de La Rochelle. Je travaille en génomique des populations et transcriptomique sur un bivalve marin
+- Anne-Sophie GBIF
 - Sophie GBIF / données de biodiversité / standard d'échange de données/métadonnées
 - Sébastien ThinkR / formation et prestation autour de R / scripts, packages, Shiny.
-### Aspect outils "génériques" de développement en écologie, orienté R
-#### Introduction aux journées en présentant la vision FAIR du PNDB
+- Brian Dooloop entrepreneur développements logiciels
+- Camille Le Roux PhD student MNHN
+### Introduction aux journées en présentant la vision FAIR du PNDB
 Présentation : Yvan Le Bras, Pôle national de données de Biodiversité, MNHN
+
+[![](https://i.imgur.com/VVlJia8.jpg)](https://data-access.cesgo.org/index.php/s/0jiS0cHv5fhAlGc)
+
+
 - Contextes : (méta)données trop peu accessibles, 6ème extinbction massive de biodiversité, volumes de données/big data en forte progression vs limite des capacités de stockage, problème de communication entre (sous-)domaines scientifiques et avec les citoyens
 - Accessibilité de la donnée en écologie : 1% de données sensibles (liées aux espèces menacées), pourquoi partager les données ? se battre contre les climato-sceptiques et accélérer la production de connaissances pour mieux protéger la biodiversité
+
+- Contexte écologique
+[![](https://i.imgur.com/KBTy8Hw.jpg)](https://www.youtube.com/watch?v=5g3npsUaWl0)
+
+
 - PNDB : 
     - sa place au sein du réseau d'infrastructures de recherche Terre-Environnement du MESRI. Objectif de construire un pôle de données pour diffuser les données des TGIR/IR nationales et faciliter le couplage avec des données autres dont celles de data-Terra --> le PNDB vise à ajouter une plus-value par rapport à l'existant !
     - 10 lignes de force : orientation FAIR, relier avec IR système Terre-Env, articuler avec SIB-SIMM, nouveaux services, qualité plutôt que quantité, flexibilité des services, description fine des données, portée internationale, articuler avec EOSC and co, quelques uses cases !
     - 3 volets : accès aux métadonnées / animation et accompagnement / accès aux outils de traitement/couplage/calcul
-    - outils mis en oeuvre : https://www.pndb.fr, https://data.pndb.fr, https://metashark.test.pndb.fr, https://ecology.usegalaxy.eu
-    - perspectives, quelques pointeurs : 
-        - H2020 MOODA (massively only open data analysis) concept -> générateur d'outil d'annotations dans galaxy (intérêt en science participative notamment), 
-        - concept de Galaxy-Bricks pour faire une interface dans une communauté dédiée
-        - intégration de données au "jumeau numérique"
+    - outils mis en oeuvre : 
+        - site web : https://www.pndb.fr,
+        - catalogue de (méta)données : https://data.pndb.fr,
+        - R Shiny app pour créer de la métadonnée au format EML, et consulter les spécifications EML : https://metashark.test.pndb.fr,
+        ![](https://i.imgur.com/IaKUJpf.png)
+
+        - Instance européenne "Galaxy for Ecology" : https://ecology.usegalaxy.eu
+        ![](https://i.imgur.com/9PPhCFL.png)
+        - quelques pointeurs sur chantiers innovants : 
+            - H2020 MOODA (massively only open data analysis) concept -> générateur d'outil d'annotations de données pouvant être mis à disposition via une infinité de canaux (pages webs, forums, plateformes comme Galaxy) -> intérêt en science participative notamment, 
+            [![](https://i.imgur.com/8anlsxM.png)](https://galaxyproject.org/blog/2020-01-galaxy-ecology-citizen-science/)
+
+            - concept de Galaxy-Bricks pour faire une interface dans une communauté dédiée
+            ![](https://i.imgur.com/nYmexxe.png)
+
+            - intégration de données au "jumeau numérique"
+            ![](https://i.imgur.com/CTKWpQ4.png)
 
 
-#### Formation rapide introductive à GIT et github -> A voir pour faire un point mardi ou mercredi si personnes intéressées
-Présentation : Alain Danet, UMR CESCO, MNHN / Nicolas Casajus, CESAB, FRB
-Personnes intéressées : ......... à compléter !
-
+### Formations introductives - Aspect outils "génériques" de développement en écologie, orienté R
 
 #### Bonnes pratiques de travail avec R / science reproductible / workflow / package via R, RStudio
 Présentation : Sébastien Rochette, ThinkR / Statnmap
@@ -221,12 +249,18 @@ Pour info, matériel utilisé lors de la première édition ecoinfoFAIR par Séb
 https://thinkr.fr/transformer-plusieurs-scripts-eparpilles-en-beau-package-r/
 
 https://github.com/statnmap/prez/blob/master/2020-10-ThinkR-development-workflow.pdf
+- RAP = Reproducible Analytical Pipelines
+![](https://i.imgur.com/78U1d3E.jpg)
+
 - PROPRE = PROcessus de Publications REproductibles
+![](https://i.imgur.com/fnKNHlX.jpg)
+
 - Tout se passe dans R, on évite les étapes non reproductibles (e : cartes dans QGIS, graphes dans calc) --> tout est code :)
 - S'assurer que tout le monde puisse reproduire une analyse
 - Nécessite stabilité des données brutes
 - Approche DataOps (data = producteurs / obs = utilisateurs) et devOps (dev = développeurs R)
 - DevOps en 6 étapes (avec itérations étapes 3 à 6):
+![](https://i.imgur.com/6e04eUj.jpg)
     - infra : def des rôles, création gitlab pour gérer le projet, monitorer le projet avec Kanban, com asynchrone et/ou fils de discussion (chat, issues)
     - design UI : se poser les questions quel public cible ? quels sont les besoins ? etc. et propositions visuelles (format de rapport, application Shiny, etc.)
     - Protototype : dans package R structuré avec documentation structurée et site web à l'aide du package pkgdown pour le partage, documentation du process aussi à la racine du package
@@ -256,10 +290,12 @@ https://github.com/statnmap/prez/blob/master/2020-10-ThinkR-development-workflow
 Présentation : Elie Arnaud, Pôle national de données de Biodiversité, MNHN
 https://github.com/pole-national-donnees-biodiversite/metadata-training/tree/master/Presentations
 tuto_shiny_elie.pdf
+![](https://i.imgur.com/fI21Q3Y.jpg)
 
 - package R de type interface R-HTML
 - **le U de Shiny** : UI = interface utilisateur + partie serveur
-    - UI input : objet ui stocke l'entrée
+  ![](https://i.imgur.com/LrIMz42.jpg)
+  - UI input : objet ui stocke l'entrée
     - Server 
         - input : objet server
         - reactive : pour traiter les variables d'entrée
@@ -334,6 +370,11 @@ docker-compose up
 
    Problèmatiques sous windows, mais aide via Kitematic pour interface de gestion d'images et containers Docker.
 
+#### Formation rapide introductive à GIT et github -> A voir pour faire un point mardi ou mercredi si personnes intéressées
+Présentation : Alain Danet, UMR CESCO, MNHN / Nicolas Casajus, CESAB, FRB / Elie Arnaud, UMS PatriNat, MNHN
+
+#### Docker intro -> A voir pour faire un point mardi ou mercredi si personnes intéressées
+Voir slides Julien Ancelin https://jancelin.github.io/workshop_docker_GIS/#9
 
 
 ### Aspect données et Métadonnées
@@ -341,15 +382,25 @@ docker-compose up
 
 #### Formation rapide introductive à l'EML
 Présentation : Yvan Le Bras, Pôle national de données de Biodiversité, MNHN
+
+Slides : https://data-access.cesgo.org/index.php/s/Ne5aF2JNA7v6Hrs
+
 - Constat : perte d'informations avec le temps -> important de documenter les données (= métadonnées)
+![](https://i.imgur.com/7CJsPMN.png)
+
 - pourquoi des métadonnées ? pour aller de la donnée à la connaissance en passant par l'information, il faut des métadonnées
 - quel niveau de description ? décrire les variables primaires et pouvoir gérer la provenance (traçabilité des protocoles, outils et workflow d'analyses) pour permettre la reproductibilité
+![](https://i.imgur.com/yxiVVxa.png)
+![](https://i.imgur.com/xyTc7MM.png)
 - renseigner les variables primaires = coeur de l'EML (= eml_attributes)
+![](https://i.imgur.com/hlHvLIO.png)
 - par rapport aux standards géospatiaux ISO 19115/19139 : EML plus utilisés en Australie et USA (à travers les LTER notamment) alors qu'en Europe on utilise plutôt ISO19115. ISO19110 sous-utilisé alors qu'utile pour décrire les variables.
 - EML langage modulaire flexible, traçage de provenance possible. L'EML semantics permet d'utiliser des ressources terminologiques (thesaurus/ontologies) pour faire le lien entre les fichiers bruts avec les variables standardisées (ex darwin core).
 - aller vers le concept de "Research objects" qui intègre tout !
 
-> "Si Internet est une réussite, c'est parce que tout le monde, dans le monder entier, s'est mis d'accord pour utiliser le même processus HTTP"
+> "Si Internet est une réussite, à la base, c'est parce que tout le monde, dans le monder entier, s'est mis d'accord pour utiliser le même protocole HTTP"
+![](https://i.imgur.com/IMbrE4T.png)
+
 
 
 #### Questions pour Yvan
@@ -367,10 +418,14 @@ Présentation : Yvan Le Bras, Pôle national de données de Biodiversité, MNHN
 Présentation : Coline Royaux, PNDB /
 Anthony Bretaudeau, Plateforme GenOuest Rennes, BIPAA, INRAE
 
+Slides : https://data-access.cesgo.org/index.php/s/QXWCqbDtW4BjTEd
+
 Si quelqu'un veut voir à quoi ressemble galaxy bricks :
 https://bricks.vigienature-ecole.fr/
 galaxy écologie :
 https://ecology.usegalaxy.eu/
+![](https://i.imgur.com/wBTd2m5.jpg)
+![](https://i.imgur.com/aKD8sq7.jpg)
 
 - Pourquoi utiliser galaxy : reproductibilité, automatisation et rigueur
 - Exemple de **généralisation** :
@@ -414,11 +469,13 @@ https://ecology.usegalaxy.eu/
     - modèle de données - standardiser les descripteurs (attributs des données) + métadonnées (qui, quoi, ou et comment)
         - mapper les attributs avec DarwinCore 
 cf CR et synthèse dans Collaboration Fest / Groupe 1
+![](https://i.imgur.com/nv6ZfhM.jpg)
 ##### Sous-sujet 2 : Lien Metacat - geoserver en s’appuyant sur SOLR : publier des flux WMS/WFS des (méta)données mammifères marins issues de Metacat (Arnaud)
 - Arnaud-Julien
 
 #### Création de FAIR Implementation Profile
-- Yvan-Françoise-Amélie (IN-Sylva) - Philippe ? - 
+- Yvan-Françoise-Amélie (IN-Sylva) - Philippe  
+![](https://i.imgur.com/wH4JC2H.png)
     - dossier partagé ici https://data-access.cesgo.org/index.php/s/P79IqHpT8pfRdFv avec deux fichiers word avec les informations pratiques pour mener une interview pour remplir le questionnaire permettant de créer le fameux FAIR Implementation Profile, ou FIP ;) et un fichier .pdf qiu est le résultat du premier FIP que j'ai créé pour le GBIF. Bon, pas forcément parfait, mais je trouve intéressant de tenter de remplir ce genre de questionnaire par communauté et SI lié. Dans les fichiers word ils expliquent comment faire le travail en utilisant https://fip-wizard.ds-wizard.org/ après s'être créé un compte pour répondre au questionnaire, et même l'installation de l'outil nanobench pour créer ce qu'ils appellent des nanopublications, une nanopublication décrivant une nouvelle ressource pouvant être sélectionnée dans le questionnaire (pour les réponses au questionnaire pas dans la liste des propositions ni dans wikidata). Là c'est un peu technique, mais une façon de faire serait ""juste"" de prendre le document pdf en version word (je dois l'avoir qqpart) et le remplir pour chaque communauté / SI. (Françoise Le Moal ?)
 - Yvan-Amélie-Philippe mapping métadonnées EML-In-Sylva
 
@@ -426,8 +483,10 @@ cf CR et synthèse dans Collaboration Fest / Groupe 1
 
 #### Data Paper via EML
 Simon-Yvan
+![](https://i.imgur.com/WBqwqO5.png)
 
-Futur action data paper :
+
+Pour info, future action data paper :
 
 https://mi-gt-donnees.pages.math.unistra.fr/site/index.html
 
@@ -631,21 +690,6 @@ Référence pour Kakila
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-4 - OHM Litorral Caraibe, LabEx DRIIHM, programme “Investissements d’avenir”  portant la référence ANR-11-LABX-0010”
---
-
 ### CR atelier groupe 1 - 21/10 matin
 - **Atelier EML** 
     - Refs EML : les ressources les plus user friendly sont https://eml.ecoinformatics.org/ et la doc interactive du schéma EML https://eml.ecoinformatics.org/schema/ et sinon dans MetaShARK https://metashark.test.pndb.fr/ partie "EML Documentation" où on peut chercher des termes EML par mots-clés dans une arborescence représentant tous les modules EML.
@@ -717,7 +761,7 @@ Tests d'application Shiny:
 - Françoise Le Moal
 - Philippe Clastre
 ### FIP OSURIS
-    - BAckground dossier partagé ici https://data-access.cesgo.org/index.php/s/P79IqHpT8pfRdFv avec deux fichiers word avec les informations pratiques pour mener une interview pour remplir le questionnaire permettant de créer le fameux FAIR Implementation Profile, ou FIP ;) et un fichier .pdf qiu est le résultat du premier FIP que j'ai créé pour le GBIF. Bon, pas forcément parfait, mais je trouve intéressant de tenter de remplir ce genre de questionnaire par communauté et SI lié. Dans les fichiers word ils expliquent comment faire le travail en utilisant https://fip-wizard.ds-wizard.org/ après s'être créé un compte pour répondre au questionnaire, et même l'installation de l'outil nanobench pour créer ce qu'ils appellent des nanopublications, une nanopublication décrivant une nouvelle ressource pouvant être sélectionnée dans le questionnaire (pour les réponses au questionnaire pas dans la liste des propositions ni dans wikidata). Là c'est un peu technique, mais une façon de faire serait ""juste"" de prendre le document pdf en version word (je dois l'avoir qqpart) et le remplir pour chaque communauté / SI. (Françoise Le Moal ?)
+- BAckground dossier partagé ici https://data-access.cesgo.org/index.php/s/P79IqHpT8pfRdFv avec deux fichiers word avec les informations pratiques pour mener une interview pour remplir le questionnaire permettant de créer le fameux FAIR Implementation Profile, ou FIP ;) et un fichier .pdf qiu est le résultat du premier FIP que j'ai créé pour le GBIF. Bon, pas forcément parfait, mais je trouve intéressant de tenter de remplir ce genre de questionnaire par communauté et SI lié. Dans les fichiers word ils expliquent comment faire le travail en utilisant https://fip-wizard.ds-wizard.org/ après s'être créé un compte pour répondre au questionnaire, et même l'installation de l'outil nanobench pour créer ce qu'ils appellent des nanopublications, une nanopublication décrivant une nouvelle ressource pouvant être sélectionnée dans le questionnaire (pour les réponses au questionnaire pas dans la liste des propositions ni dans wikidata). Là c'est un peu technique, mais une façon de faire serait ""juste"" de prendre le document pdf en version word (je dois l'avoir qqpart) et le remplir pour chaque communauté / SI. (Françoise Le Moal ?)
     - Test sur OSURIS, pas que biodiv !
         - https://www.osuris.fr/geonetwork/srv/fre/catalog.search;jsessionid=046CE2A5CE52CD79A2616D0F0150CC76#/home
         - https://accueil.osuris.fr/
@@ -796,7 +840,13 @@ Présentation catalogue metacat, lien avec solr et geoserver lié à metacat
 - aujourd'hui voir pourquoi la connection ne fonctionne pas !
 
 
-"on essaye de comprendre quel schema solr est compris par geoserver"
+"on essaye de comprendre quel schema solr est compris par geoserver".
+
+A priori le plugin de Geoserver qui permet cette connexion n'a pas suivi les nouvelles versions de Solr : https://docs.geoserver.org/latest/en/user/community/solr/index.html La page indique la version 4.10 alors que Solr en est à la version 8.6! A voir avec les développeurs du plugin ?
+
+2 autres solutions sont envisageables:
+- créer une vue dans la base de données qui soit utilisable par Geoserver
+- modifier le code java de metacat pour augmenter le nombre d'informations fournies dans la carto. Cette solution est la moins satisfaisante car elle ne permet pas un affichage à l'extérieur de metacat qui s'occupe déjà de relier la carto à Solr.
 
 
 ## Vigie-Nature Ecole et data paper
@@ -840,10 +890,63 @@ proposer un interactive tools Shiny par exmeple dans Galaxy / Galaxy-Bricks pour
 - pour le CSS :
 https://www.w3schools.com/cssref/pr_pos_right.asp
 https://fr.learnlayout.com/position.html
+- future action data paper : https://mi-gt-donnees.pages.math.unistra.fr/site/index.html
+- Référence pour Kakila
+    -  Lorraine Coché : Inventaire et structuration des données d'observation des mammifères marins aux abords de la Guadeloupe, Stage de Master 2, Master Écosystèmes marins tropicaux à l'université des Antilles. Soutenu le 29 juin 2020
+    -  Lorraine Coché, Laurent Bouveret, Benedicte Madon, Romain David, Yvan Le Bras, Maxime Sèbe, Nadège Gandhillon, Claire Frericks, Pascal Jean Lopez, Eric Foulquier, Jean-Luc Jung & Iwan Le Berre. Kakila database : A FAIR community approved database of cetacean presence in the waters of the Guadeloupe archipelago. Datapaper in redaction
+    -  La liste des contributeurs (associations et structures)
+![](https://i.imgur.com/txPYyLS.png)
+    -  OHM Litorral Caraibe, LabEx DRIIHM, programme “Investissements d’avenir”  portant la référence ANR-11-LABX-0010”
+    
+    
+    
+![](https://i.imgur.com/aTIlZI4.jpg)
 
-# Chanson
+
+
+# Chansons
 ## Golemization -> sur air de Califonication ( Red Hot Chili Pepper)
 ## FIP -> FIP la la la la la
+## FIP
+See me ride out of the sunset
+On your color TV screen
+Out for all that I can get
+If you know what I mean
+Scientists to the left of me
+And scientists to the right
+Ain't got no gun
+Ain't got no knife
+Don't you start no fight
+'Cause I'm F I P., I'm dynamite
+F I P., and I'll win the fight
+F I P, I'm a power load
+F I P, watch me explode
+I'm dirty, mean and mighty unclean
+I'm a wanted man
+Public enemy number one
+Understand?
+So lock up your daughter
+Lock up your wife
+Lock up your back door
+Run for your life
+The man is back in town
+Don't you mess me 'round
+'Cause I'm F I P., I'm dynamite
+F I P., and I'll win the fight
+F I P., I'm a power load
+F I P., watch me explode
+F I P. (oi, oi, oi)
+F I P. (oi, oi, oi)
+F I P. (oi, oi, oi)
+F I P. (oi, oi, oi)
+F I P. (oi, oi, oi)
+I'm dynamite (oi, oi)
+F I P. (oi, oi, oi)
+And I'll win the fight (oi, oi, oi)
+F I P. (oi, oi, oi)
+I'm a power load (oi, oi, oi)
+F I P.
+Watch me explode
 ## FIP related
 J'ai cliqué sur les mots bleu, souligné au crayon bleu
 Ouvrir un onglet me semble ridicule, je clique droit et puis je recule
@@ -855,7 +958,7 @@ En rouge et noir
 C'est la room de trop,
 moi la room bigbluebutton j'en ai fait peut-être un peu trop
 
-## Born to be a FIP
+## Born to be FAIR
 
 ## FAIR de la restitution en chantant
 
